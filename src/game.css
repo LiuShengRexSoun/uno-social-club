@@ -730,25 +730,6 @@ body,
   border-color: #3b603e;
 }
 
-.menu-footerprefs {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 15px;
-  padding-top: 17px;
-  margin-top: 20px;
-  border-top: 1px solid #d8ddc9;
-}
-
-.menu-footerprefs button {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  min-height: 36px;
-  font-size: 10px;
-  color: #7b9169;
-}
-
 .game-menu-description {
   color: #899779;
   font-size: 10px;
